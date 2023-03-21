@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Lora:wght@400;500;600&display=swap');
+*{
+    margin: 0%; /* elimina los espacios que estan de mas */
+    font-family: 'Lora', serif;
+    /* font-family: 'Lora', serif; */
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: rgb(255, 255, 255);
+    padding-top: 20px;
+    margin: 0 20px;
+}
+p{
+    font-size:x-small;
+}
+li{
+    font-size: x-small;
+}
+footer{
+    display: block;
+}
+strong{
+    font-weight:bolder;
+}
+a{
+    color: rgb(115, 84, 145);
+}
