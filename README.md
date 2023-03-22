@@ -66,20 +66,18 @@ requisitos:
 
 Damos la bienvenida a todos los colaboradores 💙
 
-- **Clavaguera Abril**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Abrilc90).
-- **Mónica Antich**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github]
+- **Geraldina Cejas**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Abrilc90).
+- **David Hernan Soto**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github]
 (https://github.com/MonicaAntich).
 
-- **Zapata, Mónica**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaVZapata).
+- **Maria Ofelia Gigena**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaVZapata).
 
-- **Gonzalez Mario**. IEstudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/mariogonzalezispc).
+- **Pablo Alfredo Lopez**. IEstudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/mariogonzalezispc).
 
 - **Ferreyra Gastón**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/gastonloco).
 --- 
 
-## Sprint 1       
-
-### Tienda Online " Inicio "
+<!-- ### Tienda Online " Inicio "
 --- 
 <p align="center">
   <a>
@@ -90,6 +88,6 @@ Damos la bienvenida a todos los colaboradores 💙
 ![image](https://github.com/gastonloco/Tenda-Online---Dashboard/blob/main/images/imagen1.png)
 
 --- 
-<br>
+<br> -->
 
 
