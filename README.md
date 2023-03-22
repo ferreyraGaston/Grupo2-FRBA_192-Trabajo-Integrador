@@ -46,9 +46,9 @@ TP Integrador - “Introducción a la Programación Web”
 
 --- 
 
-● HTML
-● CSS
-● JS
+- HTML
+- CSS
+- JS
 
 --- 
 
@@ -64,11 +64,30 @@ TP Integrador - “Introducción a la Programación Web”
 6) Pruebas de Integración
 
 --- 
+## Contribuyendo
 
-## Imagen-1         
+Damos la bienvenida a todos los colaboradores 💙
+
+- **Clavaguera Abril**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Abrilc90).
+- **Mónica Antich**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github]
+(https://github.com/MonicaAntich).
+
+- **Zapata, Mónica**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaVZapata).
+
+- **Gonzalez Mario**. IEstudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/mariogonzalezispc).
+
+- **Ferreyra Gastón**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/gastonloco).
+--- 
+
+## Sprint 1       
 
 ### Tienda Online " Inicio "
 --- 
+<p align="center">
+  <a>
+    <img alt="Edit on CodeSandbox" src="https://github.com/PPROF1-2021/g5-a3g5/blob/master/img/proceso.png">
+  </a>
+</p>
 
 ![image](https://github.com/gastonloco/Tenda-Online---Dashboard/blob/main/images/imagen1.png)
 
