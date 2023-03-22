@@ -67,8 +67,7 @@ requisitos:
 Damos la bienvenida a todos los colaboradores 💙
 
 - **Geraldina Cejas**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Abrilc90).
-- **David Hernan Soto**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github]
-(https://github.com/MonicaAntich).
+- **David Hernan Soto**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaAntich).
 
 - **Maria Ofelia Gigena**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaVZapata).
 
