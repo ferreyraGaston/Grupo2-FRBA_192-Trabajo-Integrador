@@ -66,14 +66,14 @@ requisitos:
 
 Damos la bienvenida a todos los colaboradores 💙
 
-- **Geraldina Cejas**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Abrilc90).
-- **David Hernan Soto**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaAntich).
+- **Geraldina Cejas**. Estudiante de Desarrollo Web [Ver Github](https://github.com/Abrilc90).
+- **David Hernan Soto**. Estudiante de Desarrollo Web [Ver Github](https://github.com/MonicaAntich).
 
-- **Maria Ofelia Gigena**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaVZapata).
+- **Maria Ofelia Gigena**. Estudiante de Desarrollo Web [Ver Github](https://github.com/MonicaVZapata).
 
-- **Pablo Alfredo Lopez**. IEstudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/mariogonzalezispc).
+- **Pablo Alfredo Lopez**. IEstudiante de Desarrollo Web [Ver Github](https://github.com/mariogonzalezispc).
 
-- **Ferreyra Gastón**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/gastonloco).
+- **Ferreyra Gastón**. Estudiante de Desarrollo Web [Ver Github](https://github.com/gastonloco).
 --- 
 
 <!-- ### Tienda Online " Inicio "
