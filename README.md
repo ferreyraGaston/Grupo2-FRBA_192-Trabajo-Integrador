@@ -83,7 +83,7 @@ Damos la bienvenida a todos los colaboradores 💙
     <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/imagen1.png">
   </a>
 </p>
---- 
+
 <br> 
 
 ### Taller Mecanico Autoit " Dispositivos Moviles "
@@ -93,7 +93,5 @@ Damos la bienvenida a todos los colaboradores 💙
     <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/imagen2.png">
   </a>
 </p>
---- 
-<br> 
 
 
