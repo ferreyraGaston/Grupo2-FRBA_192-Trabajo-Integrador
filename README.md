@@ -76,17 +76,24 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Ferreyra Gastón**. Estudiante de Desarrollo Web [Ver Github](https://github.com/gastonloco).
 --- 
 
-<!-- ### Tienda Online " Inicio "
+### Taller Mecanico Autoit " Desktop"
 --- 
 <p align="center">
   <a>
     <img alt="Edit on CodeSandbox" src="https://github.com/PPROF1-2021/g5-a3g5/blob/master/img/proceso.png">
   </a>
 </p>
-
-![image](https://github.com/gastonloco/Tenda-Online---Dashboard/blob/main/images/imagen1.png)
-
 --- 
-<br> -->
+<br> 
+
+### Taller Mecanico Autoit " Dispositivos Moviles "
+--- 
+<p align="center">
+  <a>
+    <img alt="Edit on CodeSandbox" src="https://github.com/PPROF1-2021/g5-a3g5/blob/master/img/proceso.png">
+  </a>
+</p>
+--- 
+<br> 
 
 
