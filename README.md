@@ -85,22 +85,64 @@ Damos la bienvenida a todos los colaboradores 💙
 
 --- 
 
-### Taller Mecanico Autoit " Desktop"
+### Taller Mecanico Autoit " Desktop - Header"
+
 --- 
+
 <p align="center">
   <a>
-    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/imagen1.png">
+    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/img-header.png">
   </a>
 </p>
 
 <br> 
 
-### Taller Mecanico Autoit " Dispositivos Moviles "
+### Taller Mecanico Autoit " Desktop Body 1"
+
 --- 
+
 <p align="center">
   <a>
-    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/imagen2.png">
+    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/img-body-1.png">
   </a>
 </p>
 
+<br>
+
+ ### Taller Mecanico Autoit " Desktop Body 2"
+
+--- 
+
+<p align="center">
+  <a>
+    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/img-body-2.png">
+  </a>
+</p>
+
+<br>
+
+ ### Taller Mecanico Autoit " Desktop Body 3"
+
+--- 
+
+<p align="center">
+  <a>
+    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/img-body-3.png">
+  </a>
+</p>
+
+<br> 
+
+
+ ### Taller Mecanico Autoit " Desktop Footer"
+
+--- 
+
+<p align="center">
+  <a>
+    <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo2-FRBA_192-Trabajo-Integrador/blob/main/img/img-footer.png">
+  </a>
+</p>
+
+<br> 
 
