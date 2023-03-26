@@ -74,6 +74,15 @@ Damos la bienvenida a todos los colaboradores 💙
 - **Pablo Alfredo Lopez**. IEstudiante de Desarrollo Web [Ver Github](https://github.com/mariogonzalezispc).
 
 - **Ferreyra Gastón**. Estudiante de Desarrollo Web [Ver Github](https://github.com/gastonloco).
+
+--- 
+
+## Figma
+
+* Wireframes y Bocetos del Sitio
+
+- **Proyecto Figma**. Wireframes [Ver Figma](https://www.figma.com/file/Fe7Y2gWWl2xhvUEOu54h5c/Grupo2-FRBA_192-Trabajo-Integrador?node-id=1%3A3&t=b2P2ejuxHRpMVksf-1).
+
 --- 
 
 ### Taller Mecanico Autoit " Desktop"
