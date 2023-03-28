@@ -43,7 +43,7 @@ header{
     min-height: 70vh;
     display: flex;
     align-items: center;
-    margin-bottom: 17vh;
+    margin-bottom: 15vh;
 }
 .imagen {
     width: 100%; /* establece el ancho al 100% */
