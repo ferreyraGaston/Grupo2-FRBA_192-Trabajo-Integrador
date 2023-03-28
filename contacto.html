@@ -33,7 +33,41 @@
 
 
     <main>
-        <h1>David</h1>
+        <h1>CONTACTO</h1>
+        <fieldset>
+        <legend>Complete el formulario</legend>
+        <form>
+            <div class="primerlinea">
+            <div class="contact1">
+                <label for="nombre">Escribe tu nombre: </label>
+                <input type="text" id="nombre" placeholder="Juan" required>
+            </div>
+            <div class="contact2">
+                <label for="apellido">Escribe tu apellido: </label>
+                <input type="text" id="apellido" placeholder="Perez" required>
+            </div>
+        </div>
+        <div class="segundalinea">
+            <div class="contact3">
+                <label for="email">Escribe tu email: </label>
+                <input type="email" id="email" placeholder="juanperez@gmail.com" required>
+            </div>
+            <div class="contact4">
+                <label for="telefono">Telefono:              </label>
+                <input type="tel" id="telefono" placeholder="(xx) xxxx-xxxx" >
+            </div>
+        </div>
+            
+            <div class="mensaje">
+                <label for="mensaje">Dejanos un mensaje: </label>
+                <textarea id="mensaje" cols="72" rows="10" placeholder="Necesito asesoramiento sobre..."></textarea>
+            </div>
+            <div class="final">
+            <input type="submit" value="Enviar mensaje">
+            <input type="reset" value="Borrar">
+        </div>
+        </form>
+    </fieldset>
 
 
 
