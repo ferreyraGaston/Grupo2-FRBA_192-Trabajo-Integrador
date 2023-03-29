@@ -3,6 +3,9 @@
     
 }
 
+.form{
+    transform: translateY(-50%);
+}
 
 form{
     display: flex;
