@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Diagnostico computarizado",
+        "servicio": "Scaneo electronico",
+        "costo": "Costo",
+        "url": "https://tallermecanicodario.com.ar/img/diagnostico-computarizado-autos.jpg"
+    },
+    {
+        "name": "Revision simple",
+        "servicio": "Fluidos, neumaticos, luces",
+        "costo": "Costo",
+        "url": "https://blog.reparacion-vehiculos.es/hubfs/Mantenimiento%20coche.jpg"
+    },
+    {
+        "name": "Baterias",
+        "servicio": "Revision y sistema de carga",
+        "costo": "Costo",
+        "url": "https://www.endado.com/consejos/wp-content/uploads/2015/05/C%C3%B3mo-comprobar-la-carga-de-la-bater%C3%ADa.jpg"
+    },
+    {
+        "name": "Iluminacion",
+        "servicio": "Sustitucion, geometria de opticas",
+        "costo": "Costo",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqhCSl9yp70edqWgFld1Vkxoc3xb9nQEdaA&usqp=CAU"
+    },
+    {
+        "name": "Tren delantero, suspencion",
+        "servicio": "Revision integral",
+        "costo": "Costo",
+        "url": "https://4.bp.blogspot.com/-vMQrVzOEMpM/XBLMQNiQpXI/AAAAAAAAMnI/uE02n20VDl8_nPyI4eEcvv4B9lX2CjQhACLcBGAs/s1600/10290661.jpg"
+    },
+    {
+        "name": "Sistema de frenos",
+        "servicio": "Control fluidos, pastillas",
+        "costo": "Costo",
+        "url": "https://storage.googleapis.com/blog-prod-files/uploads/sites/11/2022/02/sistema-de-frenos.jpg"
+    },
+    {
+        "name": "Cambio de aceite",
+        "servicio": "Service completo",
+        "costo": "Costo",
+        "url": "https://www.talleresautomotrices.com/wp-content/uploads/2021/04/La-importancia-del-cambio-de-aceite.jpg"
+    },
+    {
+        "name": "Aire acondicionado",
+        "servicio": "Prueba y deteccion de fugas",
+        "costo": "Costo",
+        "url": "https://http2.mlstatic.com/D_NQ_NP_831593-MLA32396958442_102019-O.jpg"
+    }
+]
