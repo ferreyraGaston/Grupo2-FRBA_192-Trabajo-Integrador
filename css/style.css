@@ -219,6 +219,18 @@ header{
 .btn-2:hover{
     background-color: var(--booton-color-hover);
 }
+
+.formulario{
+    display: flex;
+    flex-wrap: wrap;
+/*     width: 20%;
+    transform: translateY(50%);
+    padding: 25px;
+    margin-top: 90rem;
+    box-shadow: 0 0 20px var(--boxshadow-color);
+    border-radius: 10px; */
+}
+
 footer{
     padding: 200px 0px 30px 0px;
     background-image: url(../img/footer.svg);
