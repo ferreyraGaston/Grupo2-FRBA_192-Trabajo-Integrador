@@ -1,10 +1,11 @@
 *{
  margin: 7px;
+ font-family: 'Poppins', sans-serif;
     
 }
 
 .form{
-    transform: translateY(-50%);
+    transform: translateY(-60%);
 }
 
 form{
@@ -30,15 +31,13 @@ fieldset{
 
 legend{
     font-style: italic;
-    font-size: 1.1rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 h1{
     display: flex;
     justify-content: center;
-    font-size: 1.5rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
    
 }
 
@@ -49,15 +48,16 @@ h1{
     /* flex-direction: row; */
     justify-content: center;
     align-content: center;
-    /* padding-left:35px; */
+    font-size: 20px;
+    
+    
 }
 .segundalinea{
     display: flex;
    /*  flex-direction: row; */
     justify-content: center;
     align-content: center;
-    /* gap: 100px;
-    padding-left: 35px; */
+    font-size: 20px;    
 
 }
 
@@ -66,6 +66,7 @@ h1{
     /* flex-direction: row; */
     flex-direction: column;
     justify-content: center;
+    font-size: 20px;
    
 }
 
@@ -74,6 +75,7 @@ h1{
     align-content: center;
     justify-content: center;
     gap: 150px;
+    font-size: 20px;
 }
 
 .contact1{
@@ -99,8 +101,3 @@ flex-direction: column;
     flex-direction: column;
     
     }
-/* .contact3{
-    margin-left: 100px;
-}
-
- */
