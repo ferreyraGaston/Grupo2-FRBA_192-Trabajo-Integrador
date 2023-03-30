@@ -1,24 +1,64 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}   
+   
 main{
     min-height: 90vh;
+    display: flex;
+   /*  flex-direction: column; */
+    justify-content: center;
+
 }
 .contenedor{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    align-items: center;
+    /* align-items: center; */
+    width: 800px;
+    transform: translateY(-10%);
 }
- .contenedor img{
-    width: 500px;
-    
- }
 
- .card{
-    background-color: rgba(0, 0, 0, 0.589);
+.card{
+    
+    background-color: rgba(0, 0, 0, 0.507);
     color: white;
-    font-family: 'Times New Roman', Times, serif;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 0 10px blue;
-    width:500px
- }
+    font-size: 1.5rem;
+  
+    
+}
+.card img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.servicios{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+main form .inputContainer input, select{    
+     border: none;     
+     border-bottom: 1px solid rgb(40, 39, 39);     
+     padding: 10px;     
+     font-size: 18px; 
+    } 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 

@@ -9,7 +9,7 @@ fetch("./database.json")
                 <h2>${servicio.name}</h2>
                 <img src=${servicio.url}
                 <h3>${servicio.servicio}
-                <h4><strong>${servicio.costo}<strong></h4>
+                <p>Costo: <strong>${servicio.costo}<strong></h4>
             </div>
             `
         }
