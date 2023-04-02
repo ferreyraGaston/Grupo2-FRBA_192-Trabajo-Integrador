@@ -79,7 +79,14 @@ form input .text{
 }
 form .contact1,.contact2,.contact3,.contact4{
     width: 45%;
+}
 
+form 
+.contact1 input,
+.contact2 input,
+.contact3 input,
+.contact4 input{
+    height: 6vh;
 }
 .titulo{
     display: flex;
