@@ -195,8 +195,11 @@ flex-direction: column;
         .mensaje{
             display: flex;
             flex-direction: column;
-            height: 26vh;
             width: 100%;
+        }
+        .mensaje textarea{
+            width: 80%;
+           height: 26vh;
         }
         form div{
             align-items: center;
