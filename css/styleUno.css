@@ -40,6 +40,14 @@ form{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 0 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 20px var(--boxshadow-color);
+    margin: 15vw;
+    margin-top: 10px; 
+    background-color: var(--formulario-color);
+    color: var(--text-color-dark); 
 }
 
 form label{
@@ -64,9 +72,9 @@ form .boton:hover{
     color: var(--primary-color-light);
 }
 
-form input{
+form input .text{
     width: 100%;
-    height: 6vh;
+    height: 9vh;
     color: var(--formulario-text);
 }
 .titulo{
@@ -74,17 +82,6 @@ form input{
     justify-content: center;
     align-content: center;
    
-}
-fieldset{
-    display: flex;
-    justify-content: center;
-    border: none;
-    border-radius: 10px;
-    box-shadow: 0 0 20px var(--boxshadow-color);
-    margin: 15vw;
-    margin-top: 10px; 
-    background-color: var(--formulario-color);
-    color: var(--text-color-dark); 
 }
 
 legend{
@@ -99,14 +96,16 @@ h2{
     color: var(--formulario-text);
 }
 
-.primerlinea{
+form .primerlinea{
+
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     align-content: center;
     font-size: 20px;  
     margin-bottom: 3vh;
 }
-.segundalinea{
+form .segundalinea{
+
     display: flex;
     justify-content: space-between;
     align-content: center;
