@@ -191,8 +191,12 @@ flex-direction: column;
         form .final{
             display: flex;
             flex-direction: column;
-            justify-content: flex-start;
+            padding-left: 15%;
+            width: 80%;  
+            gap: 0;  
         }
+        
+        
         .mensaje{
             display: flex;
             flex-direction: column;
@@ -220,6 +224,7 @@ flex-direction: column;
         form .final input{
             height: 6vh;
             width: 80%;
+            
         }
 
     }
