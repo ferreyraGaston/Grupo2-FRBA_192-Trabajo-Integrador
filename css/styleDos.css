@@ -7,7 +7,7 @@
 }   
    
 main{
-    min-height: 90vh;
+    /* min-height: 90vh; */
     display: flex;
     justify-content: center;
 
@@ -15,6 +15,7 @@ main{
 .contenido{
     display: flex;
     flex-direction: column;
+    
 }
 .contenedor{
     display: flex;
@@ -45,13 +46,21 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: center;
+   
 }
 main form .inputContainer input, select{    
      border: none;     
      border-bottom: 1px solid rgb(40, 39, 39);     
      padding: 10px;     
      font-size: 18px; 
+     
     } 
+    .presupServicio{
+        transform: translateY(-350%);
+    }
+    .presupuesto{
+        margin-bottom: 30px;
+    }
 
 
 
