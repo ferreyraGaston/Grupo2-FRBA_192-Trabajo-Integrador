@@ -180,19 +180,38 @@ flex-direction: column;
         .form2{
             transform: translateY(-140%);  
         }
-        .primerlinea{
+  /*       form .contact1,.contact2,.contact3,.contact4{
             display: block;
+        } */
+        
+        .primerlinea{
+            display: flex;
+            flex-direction: column;
         }
         .segundalinea{
-            display: block;
+            display: flex;
+            flex-direction: column;
+        }
+        .mensaje{
+            display: flex;
+            flex-direction: column;
+            height: 26vh;
+            width: 100%;
         }
         form div{
             align-items: center;
         }
-        form input{
-            width: 70%;
-            height: 8vh;           
+        form .contact1,.contact2,.contact3,.contact4{
+            width: 80%;
         }
-
+        
+        form 
+        .contact1 input,
+        .contact2 input,
+        .contact3 input,
+        .contact4 input{
+            height: 6vh;
+            width: 100%;
+        }
 
     }
