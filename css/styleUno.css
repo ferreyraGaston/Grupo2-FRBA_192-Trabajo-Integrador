@@ -77,6 +77,10 @@ form input .text{
     height: 9vh;
     color: var(--formulario-text);
 }
+form .contact1,.contact2,.contact3,.contact4{
+    width: 45%;
+
+}
 .titulo{
     display: flex;
     justify-content: center;
