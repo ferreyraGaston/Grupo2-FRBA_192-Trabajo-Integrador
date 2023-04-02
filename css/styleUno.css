@@ -180,10 +180,6 @@ flex-direction: column;
         .form2{
             transform: translateY(-140%);  
         }
-  /*       form .contact1,.contact2,.contact3,.contact4{
-            display: block;
-        } */
-        
         .primerlinea{
             display: flex;
             flex-direction: column;
@@ -191,6 +187,11 @@ flex-direction: column;
         .segundalinea{
             display: flex;
             flex-direction: column;
+        }
+        form .final{
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
         }
         .mensaje{
             display: flex;
@@ -215,6 +216,10 @@ flex-direction: column;
         .contact4 input{
             height: 6vh;
             width: 100%;
+        }
+        form .final input{
+            height: 6vh;
+            width: 80%;
         }
 
     }
