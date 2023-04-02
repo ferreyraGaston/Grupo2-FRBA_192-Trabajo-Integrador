@@ -15,7 +15,7 @@ main{
 .contenido{
     display: flex;
     flex-direction: column;
-    margin-top: 20vh;
+    margin-top: 40vh;
     
     
 }
