@@ -1,4 +1,4 @@
-window.onload = ocultarFormulario;
+/* window.onload = ocultarFormulario;
 
 function ocultarFormulario() {
       var formulario = document.getElementById("miFormulario-1");
@@ -18,4 +18,4 @@ function mostrarFormulario() {
       formulario.style.display = "initial";
       btnOcultar.style.display = "initial";
       btnMostrar.style.display = "none";
-}
+} */

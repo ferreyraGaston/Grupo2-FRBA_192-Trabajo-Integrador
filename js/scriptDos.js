@@ -14,3 +14,10 @@ fetch("./database.json")
             `
         }
 })
+
+const servicios = document.querySelector(".servicios")
+
+servicios.addEventListener("submit", (event) =>{
+    event.preventDeFault()
+    console.log(servicios.servicio.value)
+})
