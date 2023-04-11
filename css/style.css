@@ -50,13 +50,12 @@ header{
     overflow: hidden; /* oculta cualquier contenido que exceda los límites del contenedor */
     display: flex; /* asegura que la imagen se muestre como un elemento de bloque */
     align-items: center;
-  }
+}
 
 .header-content img{
     width: 100%; /* establece el ancho de la imagen al 100% del contenedor */
     height: auto; /* permite que la altura se ajuste proporcionalmente al ancho */
     display: block; /* asegura que la imagen se muestre como un elemento de bloque */
-   
 }
 
 .container{

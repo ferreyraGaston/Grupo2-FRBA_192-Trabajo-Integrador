@@ -35,9 +35,7 @@ main{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 0 10px blue;
-    font-size: 1.5rem;
-  
-    
+    font-size: 1.5rem;  
 }
 .card img{
     width: 100%;
@@ -48,14 +46,13 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: center;
-   
 }
 main form .inputContainer input, select{    
-     border: none;     
-     border-bottom: 1px solid rgb(40, 39, 39);     
-     padding: 10px;     
-     font-size: 18px; 
-     
+    border: none;     
+    border-bottom: 1px solid rgb(40, 39, 39);     
+    padding: 10px;     
+    font-size: 18px; 
+    
     } 
     .presupServicio{
         transform: translateY(-350%);
@@ -64,16 +61,3 @@ main form .inputContainer input, select{
         margin-bottom: 30px;
     }
 
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
