@@ -1,4 +1,4 @@
-window.onload = ocultarFormulario;
+/* window.onload = ocultarFormulario;
 
 function ocultarFormulario() {
       var formulario = document.getElementById("miFormulario-1");
@@ -18,4 +18,22 @@ function mostrarFormulario() {
       formulario.style.display = "initial";
       btnOcultar.style.display = "initial";
       btnMostrar.style.display = "none";
-}
+} */
+
+
+const formularioUsuarios = document.querySelector(".formularioUsuarios")
+
+const usuarios = []
+
+formularioUsuarios.addEventListener("submit", (event) =>{
+      event.preventDeFault()  
+      console.log(formularioUsuarios.formularioUsuarios)
+
+} )
+
+      usuarios.push({
+            nombre: formularioUsuarios.nombre.value,
+            apellido: formularioUsuarios.apellido.value,
+            email: formularioUsuarios.email.value,
+            telefono: formularioUsuarios.telefono.value
+      })

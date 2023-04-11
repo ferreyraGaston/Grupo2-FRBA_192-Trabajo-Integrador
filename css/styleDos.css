@@ -7,7 +7,7 @@
 }   
    
 main{
-    /* min-height: 90vh; */
+    min-height: 90vh;
     display: flex;
     justify-content: center;
 
@@ -16,6 +16,7 @@ main{
     display: flex;
     flex-direction: column;
     margin-top: 40vh;
+    margin-left: 50px;
     
     
 }
@@ -47,6 +48,15 @@ main{
     flex-direction: column;
     justify-content: center;
 }
+
+.servicios input, submit{
+    margin-top: 20px;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 18px;
+   
+}
+
 main form .inputContainer input, select{    
     border: none;     
     border-bottom: 1px solid rgb(40, 39, 39);     
@@ -55,9 +65,9 @@ main form .inputContainer input, select{
     
     } 
     .presupServicio{
-        transform: translateY(-350%);
+        transform: translateY(-150%);
     }
     .presupuesto{
-        margin-bottom: 30px;
+        margin-bottom: 10vh;
     }
 
