@@ -66,8 +66,6 @@ requisitos:
 
 Damos la bienvenida a todos los colaboradores 💙
 
-- **Geraldina Cejas**. Estudiante de Desarrollo Web [Ver Github](https://github.com/GeryCejas).
-
 - **David Hernan Soto**. Estudiante de Desarrollo Web [Ver Github](https://github.com/davhersot).
 
 - **Pablo Alfredo Lopez**. IEstudiante de Desarrollo Web [Ver Github](https://github.com/lopezpablo10).
