@@ -5,7 +5,7 @@ fetch("./database.json")
     .then(data =>{
         for(const servicio of data){
             contenedorHTML.innerHTML+=`
-            <div class= "info-price">
+            <div class= "info-service">
                 <h2>${servicio.name}</h2>
                 <img src=${servicio.url}
                 <br>
