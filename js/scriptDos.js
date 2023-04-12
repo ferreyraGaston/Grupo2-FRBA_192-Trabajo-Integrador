@@ -28,3 +28,5 @@ servicios.addEventListener("submit", (event) =>{
     event.preventDeFault()
     console.log(servicios.servicio.value)
 })
+
+

@@ -44,21 +44,24 @@
             <div class="presupuesto">
                 <h2>Solicite su presupuesto</h2>
             </div>
-
-            <div class="servicios" id="presup">
-                <label for="servicio">Indique tipo de servicio</label>
-                <select name="servicio" id="servicio">
-                    <option value="Diagnostico computarizado">Diagnostico computarizado</option>
-                    <option value="Revision simple">Revision simple</option>
-                    <option value="Baterias">Baterias</option>
-                    <option value="Iluminacion">Iluminacion</option>
-                    <option value="Tren delantero, suspencion">Tren delantero, suspencion</option>
-                    <option value="Sistema de frenos">Sistema de frenos</option>
-                    <option value="Cambio de aceite">Cambio de aceite</option>
-                    <option value="Aire acondicionado">Aire acondicionado</option>
+            <form  class="servicios" id="presup"> 
+                <label for="producto">Selecciona un producto:</label>
+                <select id="producto">
+                    <option value="producto1">Diagnostico computarizado</option>
+                    <option value="producto2">Revision simple</option>
+                    <option value="producto3">Baterias</option>
+                    <option value="producto4">Iluminacion</option>
+                    <option value="producto5">Tren delantero, suspencion</option>
+                    <option value="producto6">Sistema de frenos</option>
+                    <option value="producto7">Cambio de aceite</option>
+                    <option value="producto8">Aire acondicionado</option>
                 </select>
-                <input type="submit" value="Enviar">
-            </div>
+              
+                <div id="opciones"></div>
+              
+                <button type="submit">Generar reporte</button>
+              </form>
+
         </div>
     </section>
         
@@ -81,5 +84,6 @@
 </div>
 </footer>
     <script src="./js/scriptDos.js"></script>
+    <script src="./js/presupuesto.js"></script>
 </body>
 </html>
