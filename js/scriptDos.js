@@ -6,12 +6,17 @@ fetch("./database.json")
         for(const servicio of data){
             contenedorHTML.innerHTML+=`
             <div class= "info-service">
-                <h2>${servicio.name}</h2>
-                <img src=${servicio.url}
+           
+                    <h2>${servicio.name}</h2>
+            
+                    <img src=${servicio.url}
+            
                 <br>
-                <h3>${servicio.servicio}
-                <br>
-                <p>Costo: <strong>${servicio.costo}<strong></h4>
+
+                    <h3>${servicio.servicio}
+                    <br>
+                    <p>Costo: <strong>${servicio.costo}<strong></h4>
+ 
             </div>
             `
         }

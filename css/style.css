@@ -244,6 +244,9 @@ header{
     border-radius: 25px;
     color: var(--text-color-dark);
 }
+
+
+
 .info-service img{
     width: 300px;
     height: 300px;
@@ -251,7 +254,13 @@ header{
     border-radius: 5px;
 }
 .info-service h2{
-    font-size: 25px;
+
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.info-service h3{
+
+    font-size: 16px;
     margin-bottom: 10px;
 }
 .info-service p{
