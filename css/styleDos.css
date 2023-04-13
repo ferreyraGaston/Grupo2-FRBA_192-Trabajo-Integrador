@@ -20,19 +20,21 @@ main{
     margin: 30px;
     transform: translateY(-50vh);
     gap: 30px ;
+   
 }
 
 .card{
     display: flex;
     background-color: white;
     color: black;
-    padding: 20px;
+    padding: 20px 
     border-radius: 10px;
     box-shadow: 0 0 10px blue;
     font-size: 1.1rem;
     width: 300px;
     flex-direction: column;
     margin: 30px;
+    
     
 }
 
@@ -67,9 +69,12 @@ main form input, select{
         margin-top: 0;
     }
 
-    .info-service h2{
+    .contenedor .info-service h2{
+        display: flex;
         font-size: 1.5rem;
-        margin: 10px;
+        transform: translateY(-20px);
+        /* margin: 10px;
+        margin-top: 0px; */
     }
     .serv{
         margin-left: 10vw;
