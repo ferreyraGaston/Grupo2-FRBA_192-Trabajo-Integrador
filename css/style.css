@@ -50,13 +50,12 @@ header{
     overflow: hidden; /* oculta cualquier contenido que exceda los límites del contenedor */
     display: flex; /* asegura que la imagen se muestre como un elemento de bloque */
     align-items: center;
-  }
+}
 
 .header-content img{
     width: 100%; /* establece el ancho de la imagen al 100% del contenedor */
     height: auto; /* permite que la altura se ajuste proporcionalmente al ancho */
     display: block; /* asegura que la imagen se muestre como un elemento de bloque */
-   
 }
 
 .container{
@@ -129,19 +128,21 @@ header{
 
 .btn-1{
     display: inline-block;
-    background-color: var(--booton-color);
-    border: 1px solid var(--border-color);
+    background-color: var(--booton-color-hover);
+    border: 1px solid var(--border-color-hover);
+    color: var(--primary-color-light);
     border-radius: 25px;
     margin: 35px 10px 30px 30px ;
     padding: 15px 25px;
-    color: var(--booton-color-hover);
+    
     font-weight: bold;
 
 }
 .btn-1:hover{
-    background-color: var(--booton-color-hover);
-    border: 1px solid var(--border-color-hover);
-    color: var(--primary-color-light);
+    background-color: var(--booton-color);
+    border: 1px solid var(--border-color);
+    color: var(--booton-color-hover);
+    
 }
 .services{
     padding: 10px 0;
@@ -213,11 +214,13 @@ header{
     display: inline-block;
     padding: 15px 25px;
     border-radius: 25px;
-    background-color: var(--primary-color);
-    color: var(--primary-color-light);    
+    background-color: var(--booton-color-hover);
+    color: var(--primary-color-light);
 }
 .btn-2:hover{
-    background-color: var(--booton-color-hover);
+    background-color: var(--primary-color);
+    color: var(--primary-color-light);  
+    
 }
 
 .formulario{
@@ -230,7 +233,37 @@ header{
     box-shadow: 0 0 20px var(--boxshadow-color);
     border-radius: 10px; */
 }
+.info-service{
+    width: 350px;
+    height: 440px;
+    padding: 35px;
+    text-align: center;
+    background-color: var(--primary-color-light);
+    box-shadow: 0 0 25px var(--boxshadow-footer-color);
+    border-radius: 25px;
+    color: var(--text-color-dark);
+}
+.info-service img{
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 5px;
+    
+}
+.info-service h2{
 
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.info-service h3{
+
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.info-service p{
+    font-size: 16px;
+    color: var(--text-color-grey);
+}
 footer{
     padding: 200px 0px 30px 0px;
     background-image: url(../img/footer.svg);
@@ -250,6 +283,11 @@ footer{
     border-radius: 25px;
     color: var(--text-color-dark);
 }
+.info-price img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
 .info-price h2{
     font-size: 25px;
     margin-bottom: 10px;
@@ -258,6 +296,7 @@ footer{
     font-size: 16px;
     color: var(--text-color-grey);
 }
+
 .price{
     font-size: 14px;
     color: var(--text-color) !important;

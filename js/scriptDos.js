@@ -5,11 +5,18 @@ fetch("./database.json")
     .then(data =>{
         for(const servicio of data){
             contenedorHTML.innerHTML+=`
-            <div class= "card">
-                <h2>${servicio.name}</h2>
-                <img src=${servicio.url}
-                <h3>${servicio.servicio}
-                <p>Costo: <strong>${servicio.costo}<strong></h4>
+            <div class= "info-service">
+           
+                    <h2>${servicio.name}</h2>
+            
+                    <img src=${servicio.url}
+            
+                <br>
+
+                    <h3>${servicio.servicio}
+                    <br>
+                    <p>Costo: <strong>${servicio.costo}<strong></h4>
+ 
             </div>
             `
         }
@@ -21,3 +28,5 @@ servicios.addEventListener("submit", (event) =>{
     event.preventDeFault()
     console.log(servicios.servicio.value)
 })
+
+
