@@ -41,12 +41,12 @@
     justify-content: center;
     padding: 0 20px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0 0 20px var(--boxshadow-color);
     margin: 20vw;
     margin-top: 10px; 
     background-color: white;
-    /* color: var(--text-color-dark); */ 
+    
 }
 
 form label{
@@ -64,11 +64,6 @@ form .boton{
     font-weight: bold;
 }
 
-/* form .boton:hover{
-    background-color: var(--booton-color-hover);
-    border: 1px solid var(--border-color-hover);
-    color: var(--primary-color-light);
-} */
 
 form input .text{
     width: 100%;
@@ -128,7 +123,6 @@ form .segundalinea{
 
 .mensaje{
     display: flex;
-    /* flex-direction: row; */
     flex-direction: column;
     justify-content: center;
     font-size: 18px;

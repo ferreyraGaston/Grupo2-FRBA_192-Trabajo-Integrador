@@ -1,6 +1,6 @@
 [
     {
-        "name": "Diagnostico computarizado",
+        "name": "Diagnostico",
         "servicio": "Scaneo electronico",
         "costo": "$ 4.990",
         "url": "https://tallermecanicodario.com.ar/img/diagnostico-computarizado-autos.jpg"
@@ -19,12 +19,12 @@
     },
     {
         "name": "Iluminacion",
-        "servicio": "Sustitucion, geometria de opticas",
+        "servicio": "Geometria de opticas",
         "costo": "$1.490",
         "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqhCSl9yp70edqWgFld1Vkxoc3xb9nQEdaA&usqp=CAU"
     },
     {
-        "name": "Tren delantero, suspencion",
+        "name": "Tren delantero",
         "servicio": "Revision integral",
         "costo": "$2.490",
         "url": "https://4.bp.blogspot.com/-vMQrVzOEMpM/XBLMQNiQpXI/AAAAAAAAMnI/uE02n20VDl8_nPyI4eEcvv4B9lX2CjQhACLcBGAs/s1600/10290661.jpg"
@@ -42,7 +42,7 @@
         "url": "https://www.talleresautomotrices.com/wp-content/uploads/2021/04/La-importancia-del-cambio-de-aceite.jpg"
     },
     {
-        "name": "Aire acondicionado",
+        "name": "Acondicionador",
         "servicio": "Prueba y deteccion de fugas",
         "costo": "$ 2.990",
         "url": "https://http2.mlstatic.com/D_NQ_NP_831593-MLA32396958442_102019-O.jpg"
